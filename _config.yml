@@ -5,7 +5,7 @@ baseurl: /jkan
 logo: /img/jkan.png
 
 # Site theme
-theme: Cerulean
+theme: Darkly
 
 # Authentication
 github_client_id: 88ef7f51fc65a59f722b
